@@ -12,9 +12,9 @@
 		</header>
 		{{- if .Site.Params.belowTitlePartial }}{{ partial .Site.Params.belowTitlePartial . }}{{ end }}
 		{{- if and (.Params.thumbnail) (not .Params.thumbnail_hide_post) }}
-		<figure class="post__thumbnail">
+		<!--		<figure class="post__thumbnail">
 			<img src="{{ .Params.thumbnail | relURL }}" alt="{{ .Title }}">
-		</figure>
+		</figure> -->
 		{{- end }}
 		{{- partial "post_toc.html" . -}}
 		<div class="content post__content clearfix">
