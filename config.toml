@@ -24,6 +24,8 @@ theme = "hugo-dpsg"
   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
   mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "02.01.2006" # Change the format of dates
+  photosSections = ["photos"] # Specify section pages to show on home page and the "Recent photos" widget
+  photoTag = "photos" # Specify one tag to show on home page and the "Recent photos" widget. Similar as photoSections, but with 1 tag instead of 1 or multiple sections
 
 [Params.style.vars]
   highlightColor = "#339966" # Override main theme color
@@ -52,9 +54,9 @@ theme = "hugo-dpsg"
   #text = "[Imprint and Privacy](/imprint)" # Extra text in footer row, understands markdown
   #right = "Donate!" # Right-aligned text in footer row, understands markdown
 
-[[Params.widgets.social.custom]]
-  title = "My Home Page"
-  url = "http://example.com"
+#[[Params.widgets.social.custom]]
+#  title = "My Home Page"
+#  url = "http://example.com"
 
 
 # Custom menu items, normally controlled via front matter in /content files
