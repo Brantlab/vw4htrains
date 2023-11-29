@@ -78,9 +78,3 @@ theme = ["hugo-dpsg", "hugo-snap-gallery"]
     name = "About"
     url = "/about/"
     weight = 3
-
-  [[menu.main]]
-    identifier = "about2"
-    name = "About2"
-    url = "/404/"
-    weight = 4
