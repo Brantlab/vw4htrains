@@ -3,7 +3,7 @@ title = "Van Wert 4H Model Railroad club"
 languageCode = "en"
 DefaultContentLanguage = "en"
 paginate = "5" # Number of posts per page
-theme = "hugo-dpsg"
+theme = ["hugo-dpsg", "hugo-snap-gallery"]
 
 [Author] # Used in authorbox
   #name = "Scout Master"
@@ -23,9 +23,9 @@ theme = "hugo-dpsg"
   indexPager = true # Show pager navigation on index page
   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
   mainSections = ["post", "blog", "news"] # Specify section pages to show on home page and the "Recent articles" widget
-  dateformat = "02.01.2006" # Change the format of dates
-  photosSections = ["photos"] # Specify section pages to show on home page and the "Recent photos" widget
-  photoTag = "photos" # Specify one tag to show on home page and the "Recent photos" widget. Similar as photoSections, but with 1 tag instead of 1 or multiple sections
+  dateformat = "01-02-2006" # Change the format of dates
+  photosSections = ["Photographs"] # Specify section pages to show on home page and the "Recent photos" widget
+  photoTag = "Photographs" # Specify one tag to show on home page and the "Recent photos" widget. Similar as photoSections, but with 1 tag instead of 1 or multiple sections
 
 [Params.style.vars]
   highlightColor = "#339966" # Override main theme color
@@ -42,7 +42,7 @@ theme = "hugo-dpsg"
   list = "left"  # Configure layout for list pages
   single = false # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["search", "recent", "social", "languages","sidemenu", "taglist"]
+  widgets = ["sidemenu" ,"recent", "social", "recent_photos_tags", "taglist"]
   # alternatively "ddg-search" can be used, to search via DuckDuckGo
   #widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages", "side"]
 
@@ -80,7 +80,7 @@ theme = "hugo-dpsg"
     weight = 3
 
   [[menu.main]]
-    identifier = "gallery"
-    name = "Photos"
-    url = "/Photos/"
-    weight = 3
+    identifier = "about2"
+    name = "About2"
+    url = "/404/"
+    weight = 4

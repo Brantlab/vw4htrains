@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Van Wert 4H Model Railroad club</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Van Wert 4H Model Railroad club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 - Modules</title>
+      <link>http://localhost:1313/posts/photo-posts/2023/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/photo-posts/2023/</guid>
+      <description>                                                                                                                                                                          </description>
+    </item>
+    
+    <item>
+      <title>Basic HTML Elements</title>
+      <link>http://localhost:1313/posts/basic-elements/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/basic-elements/</guid>
+      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About Hugo</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>Hugo is a static site engine written in Go.
+It makes use of a variety of open source projects including:
+ Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
+Setup Some fun facts about Hugo:
+ Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+    </item>
+    
+    <item>
+      <title>Meeting Dates</title>
+      <link>http://localhost:1313/meeting-dates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/meeting-dates/</guid>
+      <description>March 5, 2023 - Making the base &amp;amp; attaching track
+March 18, 2023 - Something something
+April 2, 2023 - Other Things
+April 14, 2023 - more things
+April 27, 2023 - all the things
+May 9, 2023
+May 21, 2023
+June 3, 2023
+June 16, 2023
+June 28, 2023</description>
+    </item>
+    
+    <item>
+      <title>Painting &amp; Styling Backdrop</title>
+      <link>http://localhost:1313/posts/painting-backdrop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/painting-backdrop/</guid>
+      <description>Materials Needed:   Backdrop Material:
+ A large sheet of foam board, Masonite, or another rigid material that fits the size of your module. Alternatively, you can paint directly on the module backdrop if it&amp;rsquo;s made of a suitable material.    Paints:
+ Acrylic paints are recommended for their versatility and quick drying time. Colors for the sky, mountains, hills, and any other elements you want to include.</description>
+    </item>
+    
+    <item>
+      <title>Shaping Foam</title>
+      <link>http://localhost:1313/posts/shaping-foam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/shaping-foam/</guid>
+      <description>Crafting Scenic Wonders: The Art of Shaping Foam for Model Railroad Landscapes
+Transform your model railroad layout into a mesmerizing masterpiece by mastering the art of shaping foam. This essential technique allows enthusiasts to sculpt lifelike terrains, rolling hills, and breathtaking landscapes. Whether you&amp;rsquo;re replicating a specific location or conjuring a scene from your imagination, foam shaping is the cornerstone of realistic model railroad scenery.
+Why Foam Shaping Matters:</description>
+    </item>
+    
+  </channel>
+</rss>
