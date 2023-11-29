@@ -42,7 +42,7 @@ theme = ["hugo-dpsg", "hugo-snap-gallery"]
   list = "left"  # Configure layout for list pages
   single = false # Configure layout for single pages
   # Enable widgets in given order
-  widgets = ["sidemenu" ,"recent", "social", "recent_photos_tags"]
+  widgets = ["sidemenu" ,"recent", "recent_photos_tags", "social"]
   # alternatively "ddg-search" can be used, to search via DuckDuckGo
   #widgets = ["ddg-search", "recent", "categories", "taglist", "social", "languages", "side"]
 
@@ -54,9 +54,10 @@ theme = ["hugo-dpsg", "hugo-snap-gallery"]
   #text = "[Imprint and Privacy](/imprint)" # Extra text in footer row, understands markdown
   #right = "Donate!" # Right-aligned text in footer row, understands markdown
 
-#[[Params.widgets.social.custom]]
-#  title = "My Home Page"
-#  url = "http://example.com"
+[[Params.widgets.social.custom]]
+  title = "Van Wert 4H Facebook"
+  url = "https://www.facebook.com/vanwert4h"
+  icon = "svg/facebook.svg" # Optional. Path relative to "layouts/partials"
 
 
 # Custom menu items, normally controlled via front matter in /content files

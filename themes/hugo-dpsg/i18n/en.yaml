@@ -59,7 +59,7 @@
 
 # Social widget
 - id: social_title
-  translation: "Social"
+  translation: "Useful Links"
 
 # Tags List widget
 - id: tags_title
