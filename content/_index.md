@@ -5,7 +5,7 @@ page: true
 
 ## Welcome to the Van Wert County 4H Model Railroad Club!
 
-(/images/home.jpg)
+![](/img/home.jpg)
 
 Discover the magic of miniature railways with our passionate and creative 4H Model Railroad Club. Nestled in the heart of Van Wert County, our club is a haven for railroad enthusiasts of all ages. We are dedicated to fostering a love for trains, building intricate model layouts, and creating lasting memories.
 
