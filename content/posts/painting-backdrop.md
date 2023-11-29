@@ -13,8 +13,6 @@ menu:
     weight: 9
 ---
 
-# Painting an HO Scale Module Background
-
 ## Materials Needed:
 
 1. **Backdrop Material:**
