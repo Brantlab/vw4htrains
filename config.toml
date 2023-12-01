@@ -31,11 +31,11 @@ theme = ["hugo-dpsg", "hugo-snap-gallery"]
   highlightColor = "#339966" # Override main theme color
 
 [Params.logo]
-  image = "img/placeholder.png" # Logo image. Path relative to "static"
+  image = "img/logo.png" # Logo image. Path relative to "static"
 #  header = "img/header.jpg" # Header image. Path relative to "static"
 #  header = "img/banner.jpg" # Header image. Path relative to "static"
   title = "Van Wert 4H Model Railroad Club" # Logo title, otherwise will use site title
-  subtitle = "Welcome to our club site" # Logo subtitle
+  subtitle = "All aboard on the railroad!" # Logo subtitle
 
 [Params.sidebar]
   home = "right" # Configure layout for home page
