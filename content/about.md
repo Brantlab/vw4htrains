@@ -1,33 +1,30 @@
 ---
-title: About Hugo
+#title: About
 authorbox: false
 sidebar: false
 author: VW 4H Model Railroad Club
-toc: true
+toc: false
 mainSections: post
 ---
 
-Hugo is a static site engine written in Go.
+# All Aboard! Welcome to the Van Wert 4H Model Railroad Train Club!
 
+Hey, future engineers and train enthusiasts! We're the Van Wert 4H Model Railroad Train Club, where the world of trains meets the fun of 4H adventures. Choo-choo, let's get started on this exciting journey together!
 
-It makes use of a variety of open source projects including:
+## What We're All About
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+At our club, we're on a mission to bring the joy of model railroading to kids just like you! We love trains, and we want to share that love with everyone in our community. From tiny locomotives to intricate tracks, we've got it all.
 
-Learn more and contribute on [GitHub](https://github.com/spf13).
+## Why We're Awesome
 
-## Setup
+**Friends on the Tracks:** Our club is a place where you can make new friends who share your love for trains. Imagine building and running trains with buddies who are just as excited as you are!
 
-Some fun facts about [Hugo](http://gohugo.io/):
+**Creative Train Adventures:** Get ready for some seriously cool train adventures! We build amazing layouts and let our imaginations run wild. It's like creating your very own train storybook.
 
-* Built in [Go](http://golang.org/)
-* Loosely inspired by [Jekyll](http://jekyllrb.com/)
-* Primarily developed by [spf13](http://spf13.com/) on the train while commuting to and from Manhattan.
-* Coded in [Vim](http://vim.org) using [spf13-vim](http://vim.spf13.com/)
+**Learn and Play:** Being a part of our club means you get to learn all sorts of neat things about trains. From how they work to the history behind them, there's always something new to discover. And guess what? Learning is super fun here!
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
+## Join the Fun!
 
-Thanks for reading!
+Are you ready to be a part of the Van Wert 4H Model Railroad Train Club? We'd love to have you on board! Come to our meetings, join our events, and let's make awesome train memories together.
+
+Parents, if your kiddo has a passion for trains, this is the perfect place for them to express their creativity and learn exciting new things. All aboard for a journey filled with laughter, friends, and, of course, lots of trains!

@@ -59,6 +59,21 @@ theme = ["hugo-dpsg", "hugo-snap-gallery"]
   url = "https://www.facebook.com/vanwert4h"
   icon = "svg/facebook.svg" # Optional. Path relative to "layouts/partials"
 
+  [[Params.widgets.social.custom]]
+  title = "Van Wert 4H Office"
+  url = "https://vanwert.osu.edu/"
+  #icon = "svg/facebook.svg" # Optional. Path relative to "layouts/partials"
+
+  [[Params.widgets.social.custom]]
+  title = "Van Wert County Fair"
+  url = "https://www.vanwertcountyfair.com/"
+  #icon = "svg/facebook.svg" # Optional. Path relative to "layouts/partials"
+
+  [[Params.widgets.social.custom]]
+  title = "Upcoming Train Events"
+  url = "/other-events/"
+  #icon = "svg/facebook.svg" # Optional. Path relative to "layouts/partials"
+
 
 # Custom menu items, normally controlled via front matter in /content files
 [menu]
@@ -72,10 +87,22 @@ theme = ["hugo-dpsg", "hugo-snap-gallery"]
     identifier = "Meeting-Dates"
     name = "Meetings"
     url = "/meeting-dates/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 2
+
+  [[menu.main]]
+    identifier = "reminders"
+    name = "Text Reminders"
+    url = "/Text-Reminders/"
+    weight = 5
+
+    [[menu.main]]
+    identifier = "Leaders"
+    name = "Leaders"
+    url = "/Leaders/"
+    weight = 4

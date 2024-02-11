@@ -4,26 +4,20 @@ authorbox: false
 sidebar: false
 #menu: main
 toc: false
+page: true
 
 ---
 
+We meet the first Sunday of every month until the fair which is August 27th - September 2nd, 2024
 
-March 5, 2023 - Making the base & attaching track
+March 4th, 2024 - 2 PM
 
-March 18, 2023 - Something something
+April 7th, 2024 - 2 PM
 
-April 2, 2023 - Other Things
+May 5th, 2024 - 2 PM
 
-April 14, 2023 - more things
+June 2nd, 2024 - 2 PM
 
-April 27, 2023 - all the things
+July 7th, 2024 - 2 PM
 
-May 9, 2023
-
-May 21, 2023
-
-June 3, 2023
-
-June 16, 2023
-
-June 28, 2023
+August 4th, 2024 - 2 PM
