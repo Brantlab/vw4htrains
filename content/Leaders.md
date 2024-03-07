@@ -8,7 +8,7 @@ toc: false
 ---
 # Meet our Leaders
 
-Rod Price \
+Rod Price - 419-203-9387 \
 ![](/imgs/rprice.jpg)
 
 Becki Price - 260-849-2459 \
