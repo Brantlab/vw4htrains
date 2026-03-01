@@ -14,12 +14,8 @@ Rod Price - 419-203-9387 \
 Becki Price - 260-849-2459 \
 ![](/imgs/bprice.jpg)
 
-
 Jim Marquardt
 
-
-Justin Brant \
-![](/imgs/jbrant.jpg)
-
-
 Paul Brant
+
+John Gear

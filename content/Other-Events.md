@@ -7,10 +7,10 @@ toc: false
 ---
 
 
-### Great Train Connect 
-Fort Wayne Botanical Gardens \
-March, 8th, 9th, 10th \
-https://www.visitfortwayne.com/event/the-great-train-connection/41639/
+### The Great Train Show
+Allen County War Memorial Coliseum \
+March, 14th, 15th \
+https://www.memorialcoliseum.com/events/detail/the-great-train-show
 
 ### Van Wert Historical Museum
 602 N. Washington St \

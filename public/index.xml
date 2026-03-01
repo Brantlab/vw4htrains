@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4H Model Railroad club</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 4H Model Railroad club</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 - Modules</title>
+      <link>http://localhost:1313/posts/photo-posts/2023/</link>
+      <pubDate>Wed, 29 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/photo-posts/2023/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Basic HTML Elements</title>
+      <link>http://localhost:1313/posts/basic-elements/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/basic-elements/</guid>
+      <description>&lt;p&gt;The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>All Aboard! Welcome to the Van Wert 4H Model Railroad Train Club! Hey, future engineers and train enthusiasts! We&amp;rsquo;re the Van Wert 4H Model Railroad Train Club, where the world of trains meets the fun of 4H adventures. Choo-choo, let&amp;rsquo;s get started on this exciting journey together!&#xA;What We&amp;rsquo;re All About At our club, we&amp;rsquo;re on a mission to bring the joy of model railroading to kids just like you! We love trains, and we want to share that love with everyone in our community.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/leaders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/leaders/</guid>
+      <description>Meet our Leaders Rod Price - 419-203-9387 Becki Price - 260-849-2459 Jim Marquardt&#xA;Paul Brant&#xA;John Gear</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/text-reminders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/text-reminders/</guid>
+      <description>Sign up for club text alerts Send a text to 81010 with the text message of @vanwert4hm </description>
+    </item>
+    <item>
+      <title>Meeting Dates</title>
+      <link>http://localhost:1313/meeting-dates/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/meeting-dates/</guid>
+      <description>All meetings are at Annex at the fairground. March 1st, 2026 - 2 PM&#xA;Embarking on the next phase of our 4-hour mode railroad club project, we&amp;rsquo;re delving into the crucial task of laying down our road beds and tracks. Additionally, we&amp;rsquo;ll be meticulously enhancing the visual appeal by expertly painting both the front facia and the backboard of each module. This marks an exciting step forward in bringing our collective vision to life!</description>
+    </item>
+    <item>
+      <title>Painting &amp; Styling Backdrop</title>
+      <link>http://localhost:1313/posts/painting-backdrop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/painting-backdrop/</guid>
+      <description>Materials Needed: Backdrop Material:&#xA;A large sheet of foam board, Masonite, or another rigid material that fits the size of your module. Alternatively, you can paint directly on the module backdrop if it&amp;rsquo;s made of a suitable material. Paints:&#xA;Acrylic paints are recommended for their versatility and quick drying time. Colors for the sky, mountains, hills, and any other elements you want to include. Paintbrushes:&#xA;Various brush sizes for different parts of the backdrop.</description>
+    </item>
+    <item>
+      <title>Shaping Foam</title>
+      <link>http://localhost:1313/posts/shaping-foam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/shaping-foam/</guid>
+      <description>Crafting Scenic Wonders: The Art of Shaping Foam for Model Railroad Landscapes&#xA;Transform your model railroad layout into a mesmerizing masterpiece by mastering the art of shaping foam. This essential technique allows enthusiasts to sculpt lifelike terrains, rolling hills, and breathtaking landscapes. Whether you&amp;rsquo;re replicating a specific location or conjuring a scene from your imagination, foam shaping is the cornerstone of realistic model railroad scenery.&#xA;Why Foam Shaping Matters:</description>
+    </item>
+    <item>
+      <title>Upcoming Train Events</title>
+      <link>http://localhost:1313/other-events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/other-events/</guid>
+      <description>The Great Train Show Allen County War Memorial Coliseum March, 14th, 15th https://www.memorialcoliseum.com/events/detail/the-great-train-show&#xA;Van Wert Historical Museum 602 N. Washington St Van Wert, Ohio 45891 Open Sundays 2:00 PM - 4:30 PM April - November</description>
+    </item>
+  </channel>
+</rss>

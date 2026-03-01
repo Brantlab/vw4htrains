@@ -34,8 +34,8 @@
 
 	{{ partial "favicon" . }}
 	{{ partial "perpagehead" . }}
-	{{- if not .Site.IsServer }}
-		{{ template "_internal/google_analytics_async.html" . }}
+	{{- if not hugo.IsServer }}
+		
 	{{- end }}
 </head>
 <body class="body">
